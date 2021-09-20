@@ -5,4 +5,10 @@ Demo and learning git
 
 ## Subtitle
 
-Tutorial test
+
+Tutorial
+
+## Local Development
+
+1. Open index.html in browser
+
